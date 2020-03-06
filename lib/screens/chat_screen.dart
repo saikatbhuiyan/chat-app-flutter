@@ -4,6 +4,7 @@ import 'package:chat_app/constants.dart';
 import '../constants.dart';
 
 class ChatScreen extends StatefulWidget {
+  static String screen = 'chat';
   @override
   _ChatScreenState createState() => _ChatScreenState();
 }
